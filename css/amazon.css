@@ -238,3 +238,7 @@ ul a {
     font-size: 1rem;
     text-align: center;
 }
+.box-content img{
+    height: 300px;
+    width: 330px;
+}
