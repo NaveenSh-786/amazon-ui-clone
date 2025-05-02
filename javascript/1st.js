@@ -34,7 +34,9 @@
 // following : 4,
 // }
 // console.log (profile);
-
+console.log("yesnsgamer")
+n=20
+console.log(n)
 
 
 
