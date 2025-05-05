@@ -37,7 +37,18 @@
 console.log("yesnsgamer")
 n=20
 console.log(n)
-
+nik=50
+nish=49
+console.log(nik*nish)
+const nikku={
+    Name:"naveen",
+    branch:"computer science",
+    roll:240050800034,
+    age:17,
+}
+console.log(nikku.roll)
+console.log(nikku.branch)
+console.log(nikku)
 
 
 
