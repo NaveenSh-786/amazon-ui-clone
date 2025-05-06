@@ -45,10 +45,34 @@ const nikku={
     branch:"computer science",
     roll:240050800034,
     age:17,
-}
+};
+nikku["age"] = nikku["age"] + 1
 console.log(nikku.roll)
 console.log(nikku.branch)
 console.log(nikku)
+console.log(nikku.age)
+// let =update
+// const not
+// but const obj-->key are update
+// question one pen...........................
+const product={
+    tittle:"ball pen",
+    rating:4,
+    offer:5,
+    price:270,
+};
+console.log(product);
+const profile={
+    tittle:"instagram",
+   userName:"shradhakhapra",
+   isfollow:false,
+   followers:569,
+   following:4
+};
+console.log(profile);
+
+
+
 
 
 
