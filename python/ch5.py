@@ -144,18 +144,15 @@
 # funnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 
-#Initialize the first number
-# num = 1
-# ## Loop to perform calculations
-# for _ in range(64): 
-#     # # You can adjust the range for more iterations
-#  result = num + num
-# print(f"{num} + {num} = {result}")
-# num = result
-# print("YOUR WORK IS DONE SIR...")
-
-     
-
+# Initialize the first number
+num = 1
+ ## Loop to perform calculations
+for _ in range(64): 
+    # # You can adjust the range for more iterations
+  result = num + num
+print(f"{num} + {num} = {result}")
+num = result
+print("YOUR WORK IS DONE SIR...")
 
 # pass statement in loop.......
 # pass is a null statement  that does nothing .it is used as a placeholder for future code..
