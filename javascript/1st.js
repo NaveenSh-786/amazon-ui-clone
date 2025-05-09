@@ -70,9 +70,40 @@ const profile={
    following:4
 };
 console.log(profile);
-
-
-
+// artimetic operators
+let a=3;
+let b=9;
+console.log("a=",a,"& b=", b)
+console.log("a + b=",a+b,)
+console.log("a-b",a-b)
+console.log("a*b",a*b)
+console.log("a/b",a/b)
+// modulus operator gives remainder...we use (%)sign..
+console.log("a%b",a%b)
+// exponentiation...gives power a^b in number...we use (**)sign..
+console.log("a**B=",a**b)
+// urinary operator.......
+// increament a++ its increase one number...a+1
+// decreament a-- its decease one number ...a-1
+a++;
+console.log("a=",a)
+b--;
+console.log("b=",b)
+// a++( post increamnet means bad me )      a--( post decreamnet means bad me )
+// ++a(pre inscreament means pahle  )      --a(pre decreament means pahle )
+//  assignment operators......... assign values ..
+let x=4;
+let y=6;
+x+=1;
+console.log('x=',x)
+y-=2;
+console.log('y=',y)
+// comparision operators.......
+// a==b (print boolean value gives us =ture or false ..)
+//  in this string also add as a number..
+// === it gives as well as datatype..
+// a>b a is greater than b.
+// a<b a is smaller than/ logical operators.
 
 
 
