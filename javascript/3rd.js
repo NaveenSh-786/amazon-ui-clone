@@ -44,10 +44,10 @@
 //     n = n + 2;
 //     console.log(n)
 // }
-let gamenum = 78;
-let usernum = prompt("guess the number");
-console.log(usernum);
-while (usernum != gamenum ){
- usernum = prompt ("guess the number agaim");
-}
-console.log ("congratulations");
+// let gamenum = 78;
+// let usernum = prompt("guess the number");
+// console.log(usernum);
+// while (usernum != gamenum ){
+//  usernum = prompt ("guess the number agaim");
+// }
+// console.log ("congratulations");

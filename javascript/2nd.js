@@ -86,22 +86,140 @@ not!
 // console.log(num," is multiple of 3")
 // } else { console.log(num," is not multiple of 3")}
 
-let score = prompt('enter your score')
-if (score>=80 && score <= 100){
-    Grade = 'A';
-} else if (score>=70 && score <= 89) {
-    Grade = 'B';
-} if (score>=60 && score <= 69) {
-Grade = 'C';
-} else if (score>=50 && score <= 59) {
-Grade = 'D';
-} if (score>=0 && score <= 49) {
-   Grade = 'F'
-};
-console.log("your grades are",Grade );
-naveen={
-    naveen 
-}
+// let score = prompt('enter your score')
+// if (score>=80 && score <= 100){
+//     Grade = 'A';
+// } else if (score>=70 && score <= 89) {
+//     Grade = 'B';
+// } if (score>=60 && score <= 69) {
+// Grade = 'C';
+// } else if (score>=50 && score <= 59) {
+// Grade = 'D';
+// } if (score>=0 && score <= 49) {
+//    Grade = 'F'
+// };
+// console.log("your grades are",Grade );
+// naveen={
+//     naveen 
+// }
 
+// let age=26;
+// if(age>20){
+//     console.log("you can do anything");
+// }else if
+//     (age>21){;
+//     console.log("you cant do anything");
+// }else
+// console.log("i dont know")
+// let mod="dark"
+// let color;
+//  if (mod==="dark"){
+//     color="black";
+//  }
+//  if(mod==="light"){
+//     color="white";
+//  }
+//  console.log(color);
 
+// let mod="light"
+// let color;
+//  if (mod==="dark"){
+//     color="black";
+//  }else{
+//     color="white";
+//  }
+//  console.log(color);
 
+// let num = 12;
+//  if(num%2=== 0){
+//    num="even";
+//  }else{
+//    num="odd";
+//  }
+//  console.log(num)
+// let mode ="ocean";
+// let color;
+// if(mode==="dark"){
+//    color="black";
+// }else if(mode==="light"){
+//    color="white";
+// }else if(mode==="ocean"){
+//    color="blue";
+// }else {
+//    color="white";
+// }
+// console.log("your color is",color);
+// // now we can study ternary operator...
+// let age=25;
+// let result=age>=24 ? "adult":"not adult";
+//  console.log(result) similer to if-else ....
+// practice question........
+// alert("hello nikku good job")this is for one time msg...
+// prompt("hi,so what's going on today nikku")
+// let promt=prompt("hi,so what's going on today nikku");
+// console.log(promt);
+// let num=prompt("enter thr number:")
+// if (num % 7===0){
+//    console.log(num," is the multiple of 7 ");
+// }else{
+//    console.log(num,"is not a multiple of 7");
+// }
+// let score = prompt("enter your score:");
+// if (score >=80 && score <=100){
+//     grade="excellent work :A";
+// }else if(score>=70 && score<=100){
+//     grade="B";
+// }if (score>=60 && score <=69){
+//     grade="C";
+// }else if(score>=50 && score <=59 ){
+//     grade="D";
+// }if(score>=0 && score <=49){
+//     grade = "f";
+// }
+// console.log("your grade is :",grade)
+// loops in javascript.........
+//  for loop .
+//  print 1 to 5...
+// for(let count=1; count<=10;count++){
+//     console.log("naveen");
+//     }
+// calculate the sum of 1 to n numbers
+// let sum=0;
+// for(let i=1;i<=9;i++){
+//     sum=sum+i;
+// }
+// console.log("sum:",sum)
+// console.log("loop is ended")
+// infinite loop .....
+// for(let i=1;i>=7;i++){
+    
+   
+//     console.log("naveen",i);
+// }
+// while loop ........
+// let i=1;
+// while(i<=5){
+//     console.log('naveen:',i);
+//     i++;
+// }
+// do-while loop ...
+// let i=1;
+// do{
+//     console.log("naveen",i);
+//     i++;
+// }while(i<=5);--> this is compalsory in do-while loop..
+// for-of loop.and for-in loop..
+//  for-of loop --> its for printing string...
+// let str="naveen ";
+// for(let i of str ){
+//     console.log("i",i)
+// } basiclly its for printing string characters..its also print lenght of the characters
+//  for-of loop used for (strings and array)
+// for-in loop....
+// for(let i=0;i<=100;i++){
+    
+//     if(i%2!==0){
+//         console.log("i:",i);
+//     }
+
+// }

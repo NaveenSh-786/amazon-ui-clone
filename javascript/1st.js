@@ -90,33 +90,33 @@
 // b--;
 // console.log("b=",b)
 // // a++( post increamnet means bad me )      a--( post decreamnet means bad me )
-// // ++a(pre inscreament means pahle  )      --a(pre decreament means pahle )
-// //  assignment operators......... assign values ..
-// // let x=4;
-// // let y=6;
-// // x+=1;
-// // console.log('x=',x)
-// // y-=2;
-// // console.log('y=',y)
-// // // comparision operators.......
-// // // a==b (print boolean value gives us =ture or false ..)
-// // //  in this string also add as a number..
-// // // === it gives as well as datatype..
-// // // a>b a is greater than b.
-// // // a<b a is smaller than/ logical operators.
-// let a=4;
-// let b=9;
-// let c=(a%b);
-// console.log(c)
-let marks = [80, 75, 90, 95];
+// // // ++a(pre inscreament means pahle  )      --a(pre decreament means pahle )
+// // //  assignment operators......... assign values ..
+// // // let x=4;
+// // // let y=6;
+// // // x+=1;
+// // // console.log('x=',x)
+// // // y-=2;
+// // // console.log('y=',y)
+// // // // comparision operators.......
+// // // // a==b (print boolean value gives us =ture or false ..)
+// // // //  in this string also add as a number..
+// // // // === it gives as well as datatype..
+// // // // a>b a is greater than b.
+// // // // a<b a is smaller than/ logical operators.
+// // let a=4;
+// // let b=9;
+// // let c=(a%b);
+// // console.log(c)
+// let marks = [80, 75, 90, 95];
 
-// Find average mark
-let total = 0;
-for (let i = 0; i < marks.length; i++) {
-  total += marks[i];
-}
-let average = total / marks.length;
-console.log("Average:", average);
+// // Find average mark
+// let total = 0;
+// for (let i = 0; i < marks.length; i++) {
+//   total += marks[i];
+// }
+// let average = total / marks.length;
+// console.log("Average:", average);
 
 
 
