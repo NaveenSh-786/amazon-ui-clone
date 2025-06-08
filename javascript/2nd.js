@@ -216,6 +216,7 @@ not!
 // } basiclly its for printing string characters..its also print lenght of the characters
 //  for-of loop used for (strings and array)
 // for-in loop....
+
 // for(let i=0;i<=100;i++){
     
 //     if(i%2!==0){
