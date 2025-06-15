@@ -224,3 +224,65 @@ not!
 //     }
 
 // }
+// practice question .............
+//  let gamenum=25;
+// let usernum=prompt("guess the game number : ");
+// while (usernum !=gamenum){
+//     usernum=prompt("you entered wrong number. guess again :");
+
+// }
+// console.log("congratulation, you entered the right number");
+// strings .................
+/* let str ="naveen";
+console.log(str[3]);
+// (backtik template literals)special type string (``)
+let obj={
+    item:"pen",
+    price:10,
+};
+let output =`the cost of ${obj.item} is ${obj.price}rupees`;
+console.log(output);
+let backtick=`this is a template literal ${1+2+3}`;
+console.log(backtick);
+// (\n)==> escape characters ==> gives us next line ..
+console.log("nav \n een");
+// (\t)==> for tap space ..
+let stri ="nav \t een";
+console.log(stri.length) /**/ 
+//  string methods .........
+// let str='naveen'
+// to upper(NAVEEN) case & lower case(naveen)
+// console.log(str);
+// let str="             naveen         nikku        ";
+// console.log(str.trim());
+//  str.slice (start,end?)// return pat of string 
+// let str="488435895"====> same with string..
+// console.log(str.slice (2,5))
+// str1.concat(str2)// joins str2 with str1
+// let str1="nav"
+// let str2="een"
+// let res=str1.concat(str2);
+// console.log(res)
+//  we can also print with + like a+bwith strings with number
+// str.replace(searchval,newval)...;
+// let str ="navean";
+// console.log(str.replaceAll("a","e"));
+// str .charAT(idx).....
+// let str="i love me ";
+// console.log(ctr.charAT(3));
+// practice question ..........\
+// let username= prompt("enter your full name :");
+// let fullname="@"+username+ username.length+"gmail.com";
+// console.log(fullname);
+//  my  longtarika....
+
+//     let name="@";
+//     const name2 =(name.concat(username));
+    
+
+//     const name3=name2.concat(name2.length);
+//     const name4 =name3.concat("gmail.com.")
+//     console.log(name4);
+
+
+
